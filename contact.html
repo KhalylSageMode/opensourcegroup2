@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contact Us - Pair Programming Team</title>
-    <link rel="stylesheet" href="style.css">
-    <script defer src="script.js"></script>
+    <link rel="stylesheet" href="styles.css">
+    <script defer src="scripts.js"></script>
 </head>
 <body>
     <header>
@@ -20,16 +20,43 @@
         </nav>
     </header>
     <main>
-        <h2>Contact Us</h2>
-        <form id="contact-form" action="#" method="post">
-            <label for="name">Name:</label>
-            <input type="text" id="name" name="name" required>
-            <label for="email">Email:</label>
-            <input type="email" id="email" name="email" required>
-            <label for="message">Message:</label>
-            <textarea id="message" name="message" required></textarea>
-            <button type="submit">Send</button>
-        </form>
+        <section>
+            <h2>Contact Us</h2>
+            <p>If you have any questions or would like to get in touch with us, please use the form below or reach out to us through our contact details. We look forward to hearing from you!</p>
+        </section>
+
+        <section>
+            <h3>Contact Form</h3>
+            <form id="contact-form" action="#" method="post">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required>
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+                <label for="message">Message:</label>
+                <textarea id="message" name="message" required></textarea>
+                <button type="submit">Send</button>
+            </form>
+        </section>
+
+        <section>
+            <h3>Our Contact Details</h3>
+            <p>You can also reach us directly through the following channels:</p>
+            <ul>
+                <li>Email: <a href="mailto:info@pairprogrammingteam.com">info@pairprogrammingteam.com</a></li>
+                <li>Phone: (123) 456-7890</li>
+                <li>Address: 123 Coding Lane, Dev City, Tech State, 12345</li>
+            </ul>
+        </section>
+
+        <section>
+            <h3>Follow Us</h3>
+            <p>Stay connected with us through social media:</p>
+            <ul>
+                <li><a href="https://twitter.com/pairprogrammingteam" target="_blank">Twitter</a></li>
+                <li><a href="https://www.linkedin.com/company/pairprogrammingteam" target="_blank">LinkedIn</a></li>
+                <li><a href="https://www.facebook.com/pairprogrammingteam" target="_blank">Facebook</a></li>
+            </ul>
+        </section>
     </main>
     <footer>
         <p>&copy; 2024 Pair Programming Team</p>
