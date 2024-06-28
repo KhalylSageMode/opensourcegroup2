@@ -6,7 +6,10 @@ body {
 }
 
 header {
-    header { background-color: purple; /* Changed the background color to purple */ color: #fff; padding: 10px 0; text-align: center; }
+    background-color: purple; /* Changed the background color to purple */ 
+    color: #fff; 
+    padding: 10px 0;
+    text-align: center; 
 }
 
 header h1 {
@@ -18,11 +21,9 @@ nav ul {
     padding: 0;
 }
 
-nav ul li a { color: #fff; /* Keeps the text color white for contrast */ text-decoration: none; }
-
-nav ul li a {
-    color: #fff;
-    text-decoration: none;
+nav ul li a { 
+    color: #0000;
+    text-decoration: none; 
 }
 
 main {
@@ -54,4 +55,11 @@ form input, form textarea {
     font-size: 16px;
 }
 
-form button { margin-top: 10px; padding: 10px; background-color: purple; /* Added purple color to the button */ color: #fff; border: none; cursor: pointer; }
+form button { 
+    margin-top: 10px; 
+    padding: 10px; 
+    background-color: purple; /* Added purple color to the button */ 
+    color: #fff; 
+    border: none; 
+    cursor: pointer; 
+}
