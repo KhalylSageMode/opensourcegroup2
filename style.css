@@ -6,10 +6,10 @@ body {
 }
 
 header {
-    background-color: #333;
-    color: #fff;
+    background-color: purple; /* Changed the background color to purple */ 
+    color: #fff; 
     padding: 10px 0;
-    text-align: center;
+    text-align: center; 
 }
 
 header h1 {
@@ -21,18 +21,9 @@ nav ul {
     padding: 0;
 }
 
-nav ul li {
-    display: inline;
-    margin: 0 15px;
-}
-
-nav ul li a {
-    color: #fff;
-    text-decoration: none;
-}
-
-nav ul li a:hover {
-    text-decoration: underline;
+nav ul li a { 
+    color: #0000;
+    text-decoration: none; 
 }
 
 main {
@@ -64,15 +55,11 @@ form input, form textarea {
     font-size: 16px;
 }
 
-form button {
-    margin-top: 10px;
-    padding: 10px;
-    background-color: #333;
-    color: #fff;
-    border: none;
-    cursor: pointer;
-}
-
-form button:hover {
-    background-color: #555;
+form button { 
+    margin-top: 10px; 
+    padding: 10px; 
+    background-color: purple; /* Added purple color to the button */ 
+    color: #fff; 
+    border: none; 
+    cursor: pointer; 
 }
