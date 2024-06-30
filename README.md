@@ -14,7 +14,7 @@ All the contribution to this project.
 
 **NAS/STE/20/1032 (ZUBAIRU HALIRU)** contribution are creating the main repository, uploading files and initiating a coding project, reviewing pull request, comment, approve and merging approved pull request to the main project repository.
 
-**NAS/STE/20/2110 (ABUBAKAR AHMAD DIGIL)** Contributed to the project by updating and improving the index.html and about.html files, reviewing to find any bug and writing code to provide more content and information on the website.
+**NAS/STE/20/2120 (ABUBAKAR AHMAD DIGIL)** Contributed to the project by updating and improving the index.html and about.html files, reviewing to find any bug and writing code to provide more content and information on the website.
 
 **NAS/STE/20/1098 (BILAL MAKAMA)** Contributed to the project by taking charge of the contact.html file, analyse to find and fix bugs and added user-friendly and informative information regarding the website such as link to social media pages, physical address, phone number and email.
 
