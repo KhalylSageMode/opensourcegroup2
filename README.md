@@ -22,3 +22,4 @@ All the contribution to this project.
 
 **NAS/STE/20/1071 (ADAMU MUHAMMAD HAMISU)** Contributed to the project by totally revamping the about.html file, adding vast and detailed amount of informative content regarding the website, such as about us, the team, history, our achievements, in order to make it standard.
 
+**NAS/STE/20/1084 (IDRIS AHMAD BELEL)** Contributed to the project by making necessary and additional improvement in the inclusion of well organised and structure information in the projects.html file.
